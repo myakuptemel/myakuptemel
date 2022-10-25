@@ -2,11 +2,11 @@
 
 ### Student | Gumushane Turk Telekom High School
 <font color="brown">Coffe coffe is how i keep up with Turkish exams... '<code /> </font>
+
 ### Reach out to me
 
 [<img align="left" width="22" src="https://unpkg.com/simple-icons@v4/icons/gmail.svg" />][gmail]
 [<img align="left" width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" />][instagram]
-
 
 <br />
 
