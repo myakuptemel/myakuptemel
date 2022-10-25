@@ -9,6 +9,7 @@
 [<img align="left" width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
 ### Tech i use | Im on the way to learn
 
